@@ -12,16 +12,22 @@ This repository showcases the complete data science pipeline:
 - **Machine Learning**: Building and evaluating predictive models
 - **Data Visualization**: Creating insightful visual representations
 
----
+
+## 💡 Key Skills you'll learn
+
+- **Data Cleaning & Preparation**: Handling missing values, duplicates, and data validation
+- **Exploratory Data Analysis (EDA)**: Pattern discovery, trend identification, statistical summaries
+- **Statistical Analysis**: Descriptive statistics, hypothesis testing, distribution analysis
+- **Machine Learning**: Supervised learning, model comparison, performance evaluation
+- **Time Series Analysis**: Forecasting, decomposition, trend analysis
+- **Data Visualization**: Creating meaningful visual representations of data
+- **Business Analysis**: Deriving actionable insights from data
+
 
 ## 📚 Projects
 
 ### 1. **Walmart Sales Data Analysis**
 Comprehensive analysis of Walmart store sales performance and factors influencing weekly sales.
-
-**Files:** 
-- `Walmart sales data analysis.ipynb`
-- `Walmart_Store_sales.csv` (dataset)
 
 **Key Analysis:**
 - Dataset: 6,435 records across 45 stores (2010-2012)
@@ -44,14 +50,10 @@ Comprehensive analysis of Walmart store sales performance and factors influencin
 - Sales range: $209,986 to $3,818,686
 - No missing values or duplicates
 - Positively skewed distribution
-
 ---
 
 ### 2. **Data Exploration**
 In-depth exploratory data analysis covering multiple datasets and advanced visualization techniques.
-
-**Files:** 
-- `Data exploration.ipynb`
 
 **Content:**
 - Comprehensive EDA workflows
@@ -59,14 +61,10 @@ In-depth exploratory data analysis covering multiple datasets and advanced visua
 - Advanced visualization techniques
 - Pattern identification and trend analysis
 - Data quality assessment
-
 ---
 
 ### 3. **Supervised Learning Models Comparison**
 Comparative analysis of multiple supervised learning algorithms for predictive modeling.
-
-**Files:** 
-- `Supervised Learning models comparison - 223177447.ipynb`
 
 **Content:**
 - Model building and evaluation
@@ -75,14 +73,10 @@ Comparative analysis of multiple supervised learning algorithms for predictive m
 - Hyperparameter tuning
 - Model selection and optimization
 - Cross-validation techniques
-
 ---
 
 ### 4. **Time Series Analysis**
 Analysis of time-dependent data with forecasting and trend decomposition techniques.
-
-**Files:** 
-- `Time Series.ipynb`
 
 **Content:**
 - Temporal pattern analysis
@@ -91,14 +85,10 @@ Analysis of time-dependent data with forecasting and trend decomposition techniq
 - Time series forecasting models
 - Stationarity testing
 - Lag analysis
-
 ---
 
 ### 5. **Investment Strategy - Q&Q Market Analysis**
 Quantitative analysis and strategy development for market investments.
-
-**Files:** 
-- `Investment Strategy - Q&Q market analysis.ipynb`
 
 **Content:**
 - Market data analysis
@@ -106,54 +96,17 @@ Quantitative analysis and strategy development for market investments.
 - Risk assessment
 - Performance metrics
 - Portfolio analysis
-
 ---
 
-## 📊 Datasets
 
-| Dataset | File | Description |
-|---------|------|-------------|
-| Walmart Store Sales | `Walmart_Store_sales.csv` | Weekly sales data from 45 Walmart stores (2010-2012) |
-| Combined Data | `Combined_files.csv` | Aggregated/combined dataset for cross-project analysis |
+| 🛠️ What you need           |                                                 |
+|----------------------------|-------------------------------------------------|
+| Programming Language       | - Python                                        |
+| Data Analysis & Processing | - Pandas, NumPy, SciPy                          |
+| Data Visualization         | - Matplotlib, Seaborn, Plotly                   |
+| Machine Learning           | - Scikit-learn, Statistical modeling libraries  |
+| Tools                      | - Jupyter Notebook, Excel, Markdown             |
 
----
-
-## 🛠️ Technologies & Libraries
-
-**Programming Language:**
-- Python
-
-**Data Analysis & Processing:**
-- Pandas
-- NumPy
-- SciPy
-
-**Data Visualization:**
-- Matplotlib
-- Seaborn
-- Plotly
-
-**Machine Learning:**
-- Scikit-learn
-- Statistical modeling libraries
-
-**Tools:**
-- Jupyter Notebook
-- Excel
-
----
-
-## 💡 Key Skills Demonstrated
-
-- **Data Cleaning & Preparation**: Handling missing values, duplicates, and data validation
-- **Exploratory Data Analysis (EDA)**: Pattern discovery, trend identification, statistical summaries
-- **Statistical Analysis**: Descriptive statistics, hypothesis testing, distribution analysis
-- **Machine Learning**: Supervised learning, model comparison, performance evaluation
-- **Time Series Analysis**: Forecasting, decomposition, trend analysis
-- **Data Visualization**: Creating meaningful visual representations of data
-- **Business Analysis**: Deriving actionable insights from data
-
----
 
 ## 🚀 Getting Started
 
@@ -179,26 +132,9 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn plotly jupyter
    ```
 
 4. Open any notebook and run the cells to explore the analysis
-
 ---
 
-## 📁 Repository Structure
-
-```
-Jupyter-Notebooks/
-├── README.md
-├── Walmart sales data analysis.ipynb
-├── Walmart_Store_sales.csv
-├── Data exploration.ipynb
-├── Supervised Learning models comparison - 223177447.ipynb
-├── Time Series.ipynb
-├── Investment Strategy - Q&Q market analysis.ipynb
-└── Combined_files.csv
-```
-
----
-
-## 📈 Project Highlights
+## 📈 Highlights
 
 ✅ **Complete Pipelines**: Each notebook demonstrates end-to-end data science workflows
 
@@ -221,28 +157,21 @@ By exploring these projects, you'll learn:
 - Time series forecasting techniques
 - Best practices in data science workflows
 - How to communicate data insights through visualization
-
 ---
 
-## 👤 Author
+## Author
 
 **Francis Dadzie**
 
----
-
-## 📝 License
+## License
 
 This project is open source and available for educational and research purposes.
 
----
-
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to fork and submit pull requests.
 
----
-
-## 📞 Contact
+## Contact
 
 For questions or suggestions, please open an issue on GitHub or reach out directly.
 
